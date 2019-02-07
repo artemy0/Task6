@@ -1,0 +1,7 @@
+D:\IBA\Task6\Task6\Task6\bin\Debug\Task6.exe.config
+D:\IBA\Task6\Task6\Task6\bin\Debug\Task6.exe
+D:\IBA\Task6\Task6\Task6\bin\Debug\Task6.pdb
+D:\IBA\Task6\Task6\Task6\obj\Debug\Task6.csprojAssemblyReference.cache
+D:\IBA\Task6\Task6\Task6\obj\Debug\Task6.csproj.CoreCompileInputs.cache
+D:\IBA\Task6\Task6\Task6\obj\Debug\Task6.exe
+D:\IBA\Task6\Task6\Task6\obj\Debug\Task6.pdb
